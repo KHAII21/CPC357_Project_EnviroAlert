@@ -1,0 +1,22 @@
+IoT Setup Connection Guide:
+
+1.Breadboard Positive Power Rail (left) -> Breadboard Positive Power Rail (right)  
+2.Maker GND / Breadboard I27 -> Breadboard Negative Power Rail (left) 
+3.Green LED Anode -> Breadboard E2, Cathode -> Breadboard E1   
+4.Red LED Anode -> Breadboard E4, Cathode -> Breadboard E3  
+5.Yellow LED Anode -> Breadboard E6, Cathode -> Breadboard E5
+6.Green LED Anode (Breadboard A2) -> Maker Pin A11 / Breadboard B23   
+7.Red LED Anode (Breadboard A4) -> Maker Pin D47 / Breadboard B21  
+8.Yellow LED Anode (Breadboard A6) -> Maker Pin D48 / Breadboard B20  
+9.Resistor -> Green LED Cathode (Breadboard B1), Breadboard Negative Power Rail (left)  
+10.Resistor -> Red LED Cathode (Breadboard B3), Breadboard Negative Power Rail (left) 
+11.Resistor -> Yellow LED Cathode (Breadboard B5), Breadboard Negative Power Rail (left)  
+12.DHT11 SIG -> Maker Port (right) Pin D42  
+13.DHT11 VCC -> Maker Port (right) VP 
+14.DHT11 GND -> Maker Port (right) G 
+15.Rain A0 -> Maker Port (left) Pin A4 
+16.Rain VCC -> Maker Port (left) VP  
+17.Rain GND -> Maker Port (left) G 
+18.MQ2 A0 -> Maker Port (middle) Pin A2 
+19.MQ2 VCC -> Maker Port (middle) 3V3 
+20.MQ2 GND -> Maker Port (middle) G 
