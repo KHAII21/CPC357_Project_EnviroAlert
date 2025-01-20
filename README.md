@@ -10,7 +10,7 @@ The EnviroAlert contributes to:
 - **SDG 3: Good Health and Well-being**: Ensuring a safer learning environment and promoting health through early detection of risks.
 - **SDG 4: Quality Education**: Supporting uninterrupted education by maintaining a safe environment.
 - **SDG 13: Climate Action**: Supporting climate action through environmental monitoring.
-.
+
 ---
 
 ## Key Features 
