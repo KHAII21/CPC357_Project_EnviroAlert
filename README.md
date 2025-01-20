@@ -1,7 +1,16 @@
 # EnviroAlert (Smart Fire,Rain and Temperature Monitoring and Alert System for Lecture Hall)
 
 ## Project Description  
-The **Enviro Alert** is an IoT-based solution designed to monitor and alert on fire, rain, and temperature conditions outside of the lecture halls and buildings. Using a combination of sensors like MQ2 for smoke, DHT11 for temperature and humidity, and a rain sensor, this system provides real-time data and early warnings. The system integrates with cloud platforms to ensure timely alerts and facilitate remote monitoring. The Weather and Fire Sentinel contributes to the UN Sustainable Development Goals (SDG) 3: Good Health and Well-being, SDG 4: Quality Education, and SDG 13: Climate Action by ensuring a safer learning environment, promoting health through early detection of risks, and supporting climate action through environmental monitoring.
+
+The **Enviro Alert** is an IoT-based solution designed to monitor and alert on fire, rain, and temperature conditions outside of the lecture halls and buildings. Using a combination of sensors like MQ2 for smoke, DHT11 for temperature and humidity, and a rain sensor, this system provides real-time data and early warnings. The system integrates with cloud platforms to ensure timely alerts and facilitate remote monitoring.
+
+## Contributions to UN Sustainable Development Goals
+
+The EnviroAlert contributes to:
+- **SDG 3: Good Health and Well-being**: Ensuring a safer learning environment and promoting health through early detection of risks.
+- **SDG 4: Quality Education**: Supporting uninterrupted education by maintaining a safe environment.
+- **SDG 13: Climate Action**: Supporting climate action through environmental monitoring.
+.
 ---
 
 ## Key Features 
