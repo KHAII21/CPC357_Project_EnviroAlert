@@ -110,10 +110,5 @@ Ensure the following libraries and tools are installed:
 - Test if the 3 LED (Green, yellow and Red) light up when the serial monitor reading exceed threshold
 
 ---
-
-## Sustainable Development Goals (SDG) Alignment  
-This project supports **SDG 3: Good Health and Well-being**,**SDG 4: Quality Education** and **SDG 13: Climate Action** by ensuring a safer learning environment, promoting health through early detection of risks, and supporting climate action through environmental monitoring.
----
-
 ## Contributions  
-We welcome contributions! Please submit pull requests or report issues for improvement.
+We welcome contributions as well as future suggestion to improve the project! Please submit pull requests or report issues for improvement.
